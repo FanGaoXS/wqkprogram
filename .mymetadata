@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-module
+  type="WEB"
+  name="WQKprogram"
+  id="myeclipse.1575248689022"
+  context-root="/WQKprogram"
+  j2ee-spec="5.0"
+  archive="WQKprogram.war">
+  <attributes>
+    <attribute name="webrootdir" value="WebRoot" />
+  </attributes>
+</project-module>
+
